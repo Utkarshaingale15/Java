@@ -27,3 +27,15 @@ class Nprime
 
     }
 }
+
+
+OUTPUT :-
+    
+    7 power of 5 is :- 16807
+PS F:\Java> javac Nprime.java
+PS F:\Java> java Nprime 
+Enter the value of n :-
+8
+The value of Nth Prime number is = 19
+    
+    
