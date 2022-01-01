@@ -103,3 +103,55 @@ public class Matrixadd
 
     }
 }
+
+
+OUTPUT :-
+    
+    PS F:\Java> javac Matrixadd.java
+PS F:\Java> java Matrixadd
+Enter number of rows in first matrix :- 3
+Enter number of columns in first matrix :- 3
+Enter number of rows in second matrix :- 3
+Enter number of columns in second matrix :- 3
+Enter all the elements of first matrix :- 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Enter all the elements of second matrix :- 
+2
+3
+1
+5
+4
+6
+9
+7
+8
+First Matrix :- 
+1 2 3
+4 5 6
+7 8 9
+Second Matrix :-
+2 3 1
+5 4 6
+9 7 8
+Matrix after addition :-
+3 5 4
+9 9 12
+16 15 17
+    
+    PS F:\Java> java Matrixadd
+Enter number of rows in first matrix :- 3
+Enter number of columns in first matrix :- 4
+Enter number of rows in second matrix :- 2
+Enter number of columns in second matrix :- 6
+Addition is not possible...
+    
+    
+    
