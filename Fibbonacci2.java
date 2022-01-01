@@ -25,3 +25,15 @@ public class Fibbonacci2
 
     }
 }
+
+
+OUTPUT :-
+	
+	PS F:\Java> javac Fibbonacci2.java
+PS F:\Java> java Fibbonacci2      
+Enter the number of terms :- 
+10
+First 10 terms of Fibbonacci series are :- 
+0  1  1  2  3  5  8  13  21  34
+	
+	
