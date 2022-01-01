@@ -36,3 +36,18 @@ class Palindromestring
 
     }
 }
+
+
+OUTPUt :- 
+    
+    
+    PS F:\Java> javac Palindromestring.java
+PS F:\Java> java Palindromestring
+Enter the String :-
+Naman
+String is Palindrome
+PS F:\Java> java Palindromestring
+Enter the String :-
+kajal
+String is not a Palindrome
+
