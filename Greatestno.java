@@ -22,3 +22,32 @@ import java.util.Scanner;
 			}
 	}
 
+
+OUTPUT :-
+	
+	PS F:\Java> javac Greatestno.java
+PS F:\Java> java Greatestno
+Enter the value of a :-
+23
+Enter the value of b :-
+45
+Enter the value of c :-
+67
+c have greatest value
+PS F:\Java> java Greatestno
+Enter the value of a :-
+9
+Enter the value of b :-
+78
+Enter the value of c :-
+34
+b have greatest value
+PS F:\Java> java Greatestno
+Enter the value of a :- 
+90
+Enter the value of b :- 
+54
+Enter the value of c :- 
+34
+a have greatest value
+
