@@ -17,3 +17,27 @@
 
 		}
 	}
+
+
+OUTPUT :-
+	
+	
+PS F:\Java> javac Ascii.java
+PS F:\Java> java Ascii
+Enter th char value :-
+,
+The Ascii value of , is = 44
+PS F:\Java> java Ascii
+Enter th char value :-
+J
+The Ascii value of J is = 74
+PS F:\Java> java Ascii
+Enter th char value :-
+The Ascii value of m is = 109
+PS F:\Java> java Ascii
+Enter th char value :-
+}
+The Ascii value of } is = 125
+	
+	
+	
