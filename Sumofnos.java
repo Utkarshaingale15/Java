@@ -17,3 +17,18 @@ import java.util.Scanner;
 					System.out.println("Sum of numbers :- "+sum);
 				}
 		}
+
+
+OUTPUT :-
+	
+	
+	PS F:\Java> javac Sumofnos.java
+PS F:\Java> java Sumofnos
+Sum from :-
+2
+Sum upto :-
+7
+Sum of numbers :- 27
+	
+	
+	
