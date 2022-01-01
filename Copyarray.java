@@ -25,3 +25,15 @@ class Copyarray
 
     }
 }
+
+
+OUTPUT :-
+    
+PS F:\Java> javac Copyarray.java
+PS F:\Java> java Copyarray
+Elements of Original Array :-
+2 5 7 8 6 76 45
+Elements of New Array :-
+2 5 7 8 6 76 45
+    
+    
