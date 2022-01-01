@@ -22,3 +22,16 @@ class Trycatch
        System.out.println("I'm out of try-catch block in Java...");
     }
 }
+
+
+
+OUTPUT :-
+    
+    
+    PS F:\Java> javac Trycatch.java
+PS F:\Java> java Trycatch
+You should not divide a number by zero
+I'm out of try-catch block in Java...
+    
+    
+    
