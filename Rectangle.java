@@ -35,3 +35,18 @@ class Rectangle
 
     }
 }
+
+
+OUTPUt :-
+    
+    
+    PS F:\Java> javac Rectangle.java
+PS F:\Java> java Rectangle
+Enter the length of rectangle :-
+9
+Enter the breadth of rectangle :-
+6
+Perimeter of rectangle = 30
+Area of rectangle = 54
+    
+    
