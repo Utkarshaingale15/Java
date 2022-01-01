@@ -17,3 +17,17 @@ class Npower{
 		System.out.println(n+ " power of " +power+ " is :- "+res);
 		}
 	}
+
+OUTPUT :-
+	
+	
+	PS F:\Java> javac Npower.java
+PS F:\Java> java Npower
+Enter the number :-
+7
+Enter the power of number :-
+5
+7 power of 5 is :- 16807
+	
+	
+	
