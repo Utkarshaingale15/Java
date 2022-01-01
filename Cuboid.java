@@ -31,9 +31,10 @@ import java.util.Scanner;
 OUTPUT :-
 	
 	
-Volume of Cylinder = 2412.743157956961
+
 PS F:\Java> javac Cuboid.java
 PS F:\Java> java Cuboid
+Enter the length of Cuboid :-
 12
 Enter the breadth of Cuboid :-
 8
