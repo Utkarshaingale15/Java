@@ -43,3 +43,23 @@ class Triangle
         c1.Area();
     }
 }
+
+
+OUTPUT :-
+    
+    
+    PS F:\Java> javac Triangle.java
+PS F:\Java> java Triangle
+Enter the base of triangle :-
+5
+Enter the height of triangle :-
+7
+Enter the side of triangle :-
+8
+Enter the side of triangle :-
+6
+Perimeter of triangle = 19.0
+Area of triangle = 17.5
+    
+    
+    
