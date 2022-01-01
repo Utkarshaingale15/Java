@@ -42,3 +42,26 @@ class Sortarray
         }
     }  
 }  
+
+
+OUTPUT :-
+    
+    
+    PS F:\Java> javac Sortarray.java
+PS F:\Java> java Sortarray
+Enter the size of the array :- 
+6
+Enter the elements of the array :- 
+90
+76
+54
+32
+12
+9
+Entered elements are :- 
+90  ,  76  ,  54  ,  32  ,  12  ,  9
+Elements of array sorted in ascending order :-
+9  ,  12  ,  32  ,  54  ,  76  ,  90
+    
+    
+    
