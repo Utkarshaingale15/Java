@@ -20,3 +20,19 @@ class Primeno{
 			}
 		}
 	}
+
+
+OUTPUT :-
+	
+	
+	PS F:\Java> javac Primeno.java
+PS F:\Java> java Primeno
+Enter the number
+78
+78 is a not prime number
+PS F:\Java> java Primeno
+Enter the number
+19
+19 is a prime number
+
+
