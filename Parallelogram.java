@@ -38,3 +38,20 @@ class Parallelogram
  
     }
 }
+
+
+OUTPUT :-
+    
+    PS F:\Java> javac Parallelogram.java
+PS F:\Java> java Parallelogram
+Enter the base of Parallelogram :-
+7
+Enter the side of Parallelogram :-
+5
+Enter the height of Parallelogram :-
+4
+Perimeter of Parallelogram = 24
+Area of Parallelogram = 28.0
+    
+    
+    
