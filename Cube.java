@@ -20,3 +20,17 @@ import java.util.Scanner;
 			System.out.println("Volume of Cube = "+vol);
 			}
 	}
+
+
+OUTPUT :-
+	
+	PS F:\Java> javac Cube.java
+PS F:\Java> java Cube
+Enter the length of Cube :-
+5
+Perimeter of Cube = 30
+Total surface area of Cube = 150
+Curved surface area of Cube = 100
+Volume of Cube = 125
+	
+	
