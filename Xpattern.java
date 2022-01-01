@@ -46,3 +46,23 @@ class Xpattern
         }  
     }  
 }  
+
+
+
+OUTPUT :-
+    
+    
+         *
+PS F:\Java> javac Xpattern.java
+PS F:\Java> java Xpattern
+
+1     1
+ 2   2
+  3 3
+   4
+  3 3
+ 2   2
+1     1
+    
+    
+    
