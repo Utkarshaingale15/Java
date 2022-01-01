@@ -45,3 +45,20 @@ class Anagramstring
 
     }
 }
+
+
+OUTPUT :-
+
+    
+PS F:\Java> javac Anagramstring.java
+PS F:\Java> java Anagramstring
+Enter the first string :- 
+Enter the second string :-
+Tan
+Both the Strings are Anagram
+PS F:\Java> java Anagramstring
+Enter the first string :- 
+pen
+Enter the second string :-
+net
+Both the Strings are not Anagram
