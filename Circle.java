@@ -38,3 +38,17 @@ class Circle implements Perimeter,Area
         cr.get();
     }
 }
+
+
+OUTPUT :-
+    
+    
+    PS F:\Java> javac Circle.java
+    PS F:\Java> java Circle
+    Enter the radius of circle :-
+     7
+     Perimeter of circle = 14.0
+     Area of circle = 153.93804002589985
+        
+        
+        
