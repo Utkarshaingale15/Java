@@ -12,3 +12,17 @@ class Evenodd{
 			}
 		}
 	}
+
+OUTPUT :-
+	
+	PS F:\Java> javac Evenodd.java
+PS F:\Java> java Evenodd
+Enter the number :-
+8
+8 is even number
+PS F:\Java> java Evenodd
+Enter the number :- 
+5
+5 is odd number
+
+
