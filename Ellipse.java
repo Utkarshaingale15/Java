@@ -46,3 +46,17 @@ class Ellipse
 
     }
 }
+
+
+OUTPUT :-
+    
+    PS F:\Java> javac Ellipse.java
+PS F:\Java> java Ellipse
+Enter the major axis of Ellipse :-
+9
+Enter the minor axis of Ellipse :-
+7
+Area of Ellipse = 197.92033717615698
+Perimeter of Ellipse = 35.81966739295071
+    
+    
