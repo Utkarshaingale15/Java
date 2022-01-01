@@ -13,3 +13,16 @@ class Reverseno{
 			System.out.println("Reverse of entered no is :- "+rev);
 		}
 	}
+
+
+OUTPUT :-
+	
+	
+	PS F:\Java> javac Reverseno.java
+PS F:\Java> java Reverseno
+Enter the number :- 
+5632
+Reverse of entered no is :- 2365
+	
+	
+	
