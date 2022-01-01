@@ -48,3 +48,23 @@ class Trapezium
         
     }
 }
+
+
+OUTPUT :-
+    
+    
+    PS F:\Java> javac Trapezium.java
+PS F:\Java> java Trapezium
+Enter the base of Trapezium :-
+8
+Enter the side of Trapezium :-
+5
+Enter the slant side of Trapezium :-
+9
+Enter the height of Trapezium :-
+7
+Perimeter of Trapezium = 31.0
+Area of Trapezium = 45.5
+    
+    
+    
