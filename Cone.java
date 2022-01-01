@@ -24,3 +24,20 @@ import java.lang.Math;
 			System.out.println("Volume of Cone = "+vol);
 			}
 	}
+
+
+OUTPUT :-
+	
+	
+PS F:\Java> javac Cone.java
+PS F:\Java> java Cone
+Enter the radius of Cone :-
+8
+Enter the height of Cone :-
+5
+Enter the slant height of Cone :-
+Curved surface area of Cone = 226.1946710584651
+Volume of Cone = 335.1032163829113
+	
+	
+	
