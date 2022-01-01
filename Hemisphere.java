@@ -18,3 +18,16 @@ import java.lang.Math;
 			System.out.println("Volume of Hemisphere = "+vol);
 			}
 	}
+
+
+OUTPUT :-
+	
+	PS F:\Java> javac Hemisphere.java
+PS F:\Java> java Hemisphere
+Enter the radius of Hemisphere :-
+9
+Total surface area of Hemisphere = 763.4070148223198
+Curved surface area of Hemisphere = 508.93800988154646
+Volume of Hemisphere = 1526.8140296446393
+	
+	
