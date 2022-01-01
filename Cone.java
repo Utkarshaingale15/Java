@@ -42,7 +42,3 @@ Curved surface area of Cone = 226.1946710584651
 Volume of Cone = 335.1032163829113
 	
 	
-	
-	
-	
-	
