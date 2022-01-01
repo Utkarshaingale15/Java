@@ -34,3 +34,16 @@ class Square extends Area
         a1.execute();
     }
 }
+
+
+OUTPUT :-
+    
+    
+    PS F:\Java> javac Square.java
+PS F:\Java> java Square  
+Enter the side of square :-
+7
+Perimeter of square = 28
+Area of square = 49
+    
+    
