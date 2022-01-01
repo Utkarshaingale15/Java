@@ -24,3 +24,15 @@ public class Fibbonacci1
 
     }
 }
+
+
+OUTPUt :-
+	
+	PS F:\Java> javac Fibbonacci1.java
+PS F:\Java> java Fibbonacci1
+Enter the value of n :-
+5
+Fibonacci Series upto 5 :-
+0  1  1  2  3
+	
+	
