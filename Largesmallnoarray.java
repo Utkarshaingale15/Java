@@ -43,7 +43,27 @@ class Largesmallnoarray
                 if(array[i] < min)  
                 min = array[i];  
             }  
-            System.out.println("Largest element present in the array :- " + min);  
+            System.out.println("Smallest element present in the array :- " + min);  
         }
     }
 }
+
+
+OUTPUT :-
+    
+    PS F:\Java> javac Largesmallnoarray.java
+PS F:\Java> java Largesmallnoarray      
+Enter the size of the array :- 
+5
+Enter the elements of the array :- 
+89
+12
+56
+9
+51
+Entered elements are :- 
+89  ,  12  ,  56  ,  9  ,  51
+Largest element present in the array :- 89
+Smallest element present in the array :- 9
+
+    
