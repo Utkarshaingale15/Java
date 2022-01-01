@@ -18,3 +18,21 @@ class Swapno{
 		System.out.println("    b = "+b);
 		}
 	}
+
+
+OUTPUT :-
+	
+	
+	PS F:\Java> javac Swapno.java
+PS F:\Java> java Swapno
+Enter the number :- 
+2
+Enter the number :- 
+3
+Before Swapping :- 
+a = 2    b = 3
+After Swapping :-
+a = 3    b = 2
+	
+	
+	
