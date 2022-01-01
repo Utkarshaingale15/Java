@@ -65,3 +65,48 @@ public class Sparsematrix
 
     }
 }
+
+
+OUTPUT :-
+    
+    
+    PS F:\Java> javac Sparsematrix.java
+    PS F:\Java> java Sparsematrix
+Enter total rows and columns :-
+2
+4
+Enter matrix :-
+4
+0
+5
+0
+0
+0
+8
+7
+Entered Matrix is :-
+4 0 5 0
+0 0 8 7
+The matrix is not Sparse matrix...
+PS F:\Java> java Sparsematrix
+Enter total rows and columns :- 
+3
+3
+Enter matrix :- 
+0
+9
+0
+0
+8
+0
+5
+0
+0
+Entered Matrix is :- 
+0 9 0
+0 8 0
+5 0 0
+The matrix is Sparse matrix...
+    
+    
+    
