@@ -43,3 +43,20 @@ class Rhombus extends Area
         
     }
 }
+
+
+OUTPUT :-
+    
+    PS F:\Java> javac Rhombus.java
+PS F:\Java> java Rhombus
+Enter the side of Rhombus :-
+6
+Enter the first diagonal of Rhombus :-
+7
+Enter the second diagonal of Rhombus :-
+8
+Perimeter of Rhombus = 24.0
+Area of Rhombus = 28.0
+    
+    
+    
