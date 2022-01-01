@@ -15,7 +15,20 @@ class Pallindrome{
 		if(t==sum)
 				System.out.println("Pallindrome number");
 				else{
-				System.out.println("not a Pallindrome number");
+				System.out.println("Not a Pallindrome number");
 			}
 		}
 	}
+
+OUTPUT :-
+	
+	PS F:\Java> javac Pallindrome.java
+PS F:\Java> java Pallindrome
+Enter the number :-
+12321
+Pallindrome number
+PS F:\Java> java Pallindrome
+Enter the number :-
+789
+Not a Pallindrome number
+
