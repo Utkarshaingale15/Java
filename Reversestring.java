@@ -21,3 +21,14 @@ class Reversestring
 
     }
 }
+
+
+OUTPUT :-
+    
+    PS F:\Java> javac Reversestring.java
+    PS F:\Java> java Reversestring
+Enter the string :-
+Hello
+Original String = Hello
+Reverse of String = olleH
+
