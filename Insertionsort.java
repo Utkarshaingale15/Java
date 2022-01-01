@@ -45,3 +45,22 @@ class Insertionsort
 
     }           
 }
+
+OUTPUT :-
+    
+    PS F:\Java> javac Insertionsort.java
+PS F:\Java> java Insertionsort
+Enter the Size of Array :- 
+5
+Enter those 5 Elements :- 
+78
+65
+4
+12
+89
+Array before Insertion sort is :-
+  78  65  4  12  89
+Applying Insertion Sort Technique to the array
+Array after Insertion sort is :-
+4  12  65  78  89
+    
