@@ -23,3 +23,18 @@ class Combination{
 			System.out.println("Combination is :- "+com);
 		}
 	}
+
+
+OUTPUT :-
+	
+	
+	PS F:\Java> javac Combination.java
+PS F:\Java> java Combination
+Enter the value of n :-
+8
+Enter the value of r :-
+6
+Combination is :- 28
+	
+	
+	
