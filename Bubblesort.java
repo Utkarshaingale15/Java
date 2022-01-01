@@ -48,3 +48,26 @@ class Bubblesort
         
     }
 }
+
+
+OUTPUT :-
+    
+    
+PS F:\Java> javac Bubblesort.java
+PS F:\Java> java Bubblesort
+Enter the size of array :-
+5
+Enter the elements of array :-
+98
+12
+74
+9
+42
+Array before Bubble sort is :-
+ 98   12   74   9   42
+Applying Bubble Sort Technique to the array
+Array after Bubble sort is :-
+9   12   42   74   98
+    
+    
+    
