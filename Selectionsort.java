@@ -47,3 +47,26 @@ class Selectionsort
        }  
    }  
 }  
+
+
+OUTPUT :-
+  
+  
+  PS F:\Java> javac Selectionsort.java
+PS F:\Java> java Selectionsort
+Enter the Size of the array :- 
+5
+Enter the Elements of the array :- 
+12
+90
+56
+4
+34
+Array before Selection sort is :-
+  12  90  56  4  34
+Applying Selection Sort Technique to the array
+Array after Selection sort is :-
+4  12  34  56  90
+  
+  
+  
