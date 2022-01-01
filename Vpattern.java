@@ -20,4 +20,18 @@ class Vpattern
     }    
 }    
   
+ 
+OUTPUT :-
+    
+    
+    PS F:\Java> javac Vpattern.java
+PS F:\Java> java Vpattern
+***********
+ *********
+  *******
+   *****
+    ***
+     *
+     
+    
     
