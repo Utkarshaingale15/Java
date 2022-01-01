@@ -17,3 +17,20 @@ class Rtpattern
     }  
 } 
   
+
+
+OUTPUT :-
+    
+    
+    PS F:\Java> javac Rtpattern.java
+PS F:\Java> java Rtpattern
+Right angle triangle pattern
+  *
+  *  *
+  *  *  *
+  *  *  *  *
+  *  *  *  *  *
+  *  *  *  *  *  *
+  
+    
+    
