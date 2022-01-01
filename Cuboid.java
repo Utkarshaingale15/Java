@@ -26,3 +26,21 @@ import java.util.Scanner;
 			System.out.println("Volume of Cuboid = "+vol);
 			}
 	}
+
+
+OUTPUT :-
+	
+	Volume of Cylinder = 2412.743157956961
+PS F:\Java> javac Cuboid.java
+PS F:\Java> java Cuboid
+12
+Enter the breadth of Cuboid :-
+8
+Enter the height of Cuboid :-
+7
+Perimeter of Cuboid = 108
+Total surface area of Cuboid = 472
+Curved surface area of Cuboid = 280
+Volume of Cuboid = 672
+	
+	
