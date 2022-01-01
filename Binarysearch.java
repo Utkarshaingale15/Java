@@ -47,3 +47,33 @@ class Binarysearch
         
     }
 }
+
+
+OUTPUT :-
+    
+    
+PS F:\Java> javac Binarysearch.java
+PS F:\Java> java Binarysearch
+Enter the number of elements :-
+4
+Enter those 4 elements :-
+34
+23
+1
+67
+Enter the element to find :-
+23
+23 is present in the array at location 2
+PS F:\Java> java Binarysearch
+Enter the number of elements :-
+4
+Enter those 4 elements :-
+56
+90
+12
+62
+Enter the element to find :-
+2
+2 is not present in the array
+
+
