@@ -48,3 +48,30 @@ public class Transposematrix
 
     }
 }
+
+
+OUTPUT :-
+    
+    
+    PS F:\Java> javac Transposematrix.java
+PS F:\Java> java Transposematrix
+Enter total rows and columns :- 
+3
+2
+Enter the matrix :-
+2
+3
+4
+5
+6
+7
+The Matrix before Transpose is :- 
+2 3
+4 5
+6 7
+The Matrix after Transpose is :-
+2 4 6
+3 5 7
+    
+    
+    
