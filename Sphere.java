@@ -18,3 +18,18 @@ import java.lang.Math;
 			System.out.println("Volume of Sphere = "+vol);
 			}
 	}
+
+
+OUTPUT :-
+	
+	
+	PS F:\Java> javac Sphere.java
+PS F:\Java> java Sphere
+Enter the radius of Sphere :-
+7
+Total surface area of Sphere = 615.7521601035994
+Curved surface area of Sphere = 615.7521601035994
+Volume of Sphere = 1436.7550402417319
+	
+	
+	
