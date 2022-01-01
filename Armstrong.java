@@ -19,3 +19,19 @@ class Armstrong{
 				}
 		}
 	}
+
+
+OUTPUT :- 
+	
+
+PS F:\Java> javac Armstrong.java
+PS F:\Java> java Armstrong
+Enter the number :-
+153
+153 is a Armstrong number
+PS F:\Java> java Armstrong
+Enter the number :-
+675
+675 is not a Armstrong number
+
+
