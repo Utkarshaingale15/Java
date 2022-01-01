@@ -14,3 +14,14 @@ class Factorial{
         System.out.println("Factorial of " +n+ " is = "+fact);
     }
 }
+
+
+OUTPUT :-
+    
+    PS F:\Java> javac Factorial.java
+PS F:\Java> java Factorial
+Enter the number :-
+8
+Factorial of 8 is = 40320
+    
+    
