@@ -36,8 +36,13 @@ Enter the radius of Cone :-
 Enter the height of Cone :-
 5
 Enter the slant height of Cone :-
+9
+Total surface area of Cone = 427.2566008882119
 Curved surface area of Cone = 226.1946710584651
 Volume of Cone = 335.1032163829113
+	
+	
+	
 	
 	
 	
