@@ -24,3 +24,17 @@ class Permutation{
 
 		}
 	}
+
+
+OUTPUT :-
+	
+	
+	PS F:\Java> javac Permutation.java
+PS F:\Java> java Permutation
+Enter the value of n :-
+5
+Enter the value of r :-
+7
+Permutation is :- 120
+	
+	
